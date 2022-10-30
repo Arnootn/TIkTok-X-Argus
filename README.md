@@ -1,3 +1,5 @@
+dm https://t.me/xtekky to buy (providing test api)
+
 # TikTok-X-Argus
 
 
