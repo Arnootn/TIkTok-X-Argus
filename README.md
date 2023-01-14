@@ -1,4 +1,5 @@
 dm https://t.me/xtekky to buy (providing test api)
+no emulator / phone required, native lib signing
 
 # TikTok-X-Argus
 
