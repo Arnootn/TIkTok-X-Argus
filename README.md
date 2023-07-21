@@ -2,7 +2,6 @@ selling python argus / ladon algorithm https://t.me/xtekky
 
 # TikTok-X-Argus
 
-
 ```js
 
 X-Argus 
@@ -601,6 +600,4 @@ message XA15 {
 ```
  
  
- 
- 
- 
+from https://chionyuan.github.io/2022/08/03/dygod/
